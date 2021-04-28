@@ -1,7 +1,7 @@
 !!!I am not responsible or use legal proceedings for illegal actions at your own risk it is a test for your Internet connection and router.!!!
 
 # AMPSCAN
-AMPscan is a Tool that scans for you all AMP's that you want (Ampflication's) with that you can use it to DDoS.
+AMPscan is a Tool that scans for you all AMP's that you want (Amplification's) with that you can use it to DDoS.
 
 # Installation 
 - git clone https://github.com/linux21123/ampscan
